@@ -83,6 +83,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 
 This repository is licensed under the MIT License. See `LICENSE` file for more details.
 
----
 
-Enjoy exploring these foundational algorithms! 😊
